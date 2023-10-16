@@ -1,0 +1,21 @@
+{
+  "name": "electron-test2",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "Electron-Test-2"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Owen Luts",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^27.0.0"
+  }
+}
